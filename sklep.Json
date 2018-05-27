@@ -1,0 +1,18 @@
+{
+  "produkty" : [ {
+    "typ" : "komputer",
+    "id" : 2,
+    "nazwa" : "www",
+    "cena" : 34,
+    "marka" : "www",
+    "ram" : 2
+  }, {
+    "typ" : "komputer",
+    "id" : 2,
+    "nazwa" : "ggg",
+    "cena" : 66,
+    "marka" : "hhh",
+    "ram" : 4
+  } ],
+  "nazwa" : "www.amazon.com"
+}
