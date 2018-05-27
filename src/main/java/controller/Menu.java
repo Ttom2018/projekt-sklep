@@ -8,7 +8,8 @@ import pliki.OperacjePlikowe;
 import pliki.PlikiBinarne;
 import pliki.plikiJson;
 
-import java.io.IOException;
+
+
 import java.math.BigDecimal;
 import java.util.Scanner;
 
